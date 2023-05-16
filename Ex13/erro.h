@@ -1,0 +1,1 @@
+void exibeErro(char *);
